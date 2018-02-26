@@ -96,7 +96,15 @@ goto End
 :End
 ```
 
+Copy the above code in the Locker.txt file
+
 ## 3. Enter the Password
+
+![image](https://user-images.githubusercontent.com/36832858/36658883-d10a4056-1b15-11e8-90de-9e87f1e9575b.png)
+
+Change the password to your requirements
+
+
 
 
 ## 4. Save as Bat File
