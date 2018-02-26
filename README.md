@@ -113,3 +113,6 @@ Now save the file as Locker.bat. To do this make sure you can view file extensti
 Now delete the Locker.txt file. You will be left with Locker.bat
 ![image](https://user-images.githubusercontent.com/36832858/36659161-d9156a04-1b16-11e8-8aeb-0125c7f1aefc.png)
 ## 5. Convert Bat File to Exe
+Extract the file Bat_To_Exe_Converter.Zip and Install Bat_To_Exe_Converter_(Installer).exe in the zip file. Make sure to create a desktop shortcut while installing. Once the installation is complete open the software.
+![image](https://user-images.githubusercontent.com/36832858/36659435-cea361b0-1b17-11e8-9626-c9059a40fd79.png)
+
