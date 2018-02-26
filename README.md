@@ -116,3 +116,32 @@ Now delete the Locker.txt file. You will be left with Locker.bat
 Extract the file Bat_To_Exe_Converter.Zip and Install Bat_To_Exe_Converter_(Installer).exe in the zip file. Make sure to create a desktop shortcut while installing. Once the installation is complete open the software.
 ![image](https://user-images.githubusercontent.com/36832858/36659435-cea361b0-1b17-11e8-9626-c9059a40fd79.png)
 
+Open the locker.bat file. You will see the code in the window
+![image](https://user-images.githubusercontent.com/36832858/36659529-20aadb00-1b18-11e8-8da0-a9aae9c47c9b.png)
+
+Now change the Exe-Format depending upon your Windows Machine 64/32 | Console Application (Visible)
+![image](https://user-images.githubusercontent.com/36832858/36659624-6a80e170-1b18-11e8-99e3-f01c2cf00708.png)
+
+In my case it was 64. Now click the Convert Button in the menu (It Has gear as an icon). A window wil pop up to write down the name of the application. In my case I am naming it as Locker.exe
+![image](https://user-images.githubusercontent.com/36832858/36659741-cfa6f06c-1b18-11e8-991e-cd3fe31f6c8a.png)
+
+### Once completed.Close the application. And delete the Locker.bat
+
+## 6. Running the Application
+When you run the application for the first time it will create a New Folder name Locker. You can copy all the neccessary files which you want to password protect. Once moving of your files is done.
+![image](https://user-images.githubusercontent.com/36832858/36659917-803fa9c8-1b19-11e8-8c2b-9e4863a629c8.png)
+
+Run the application Again it will ask for Locking the folder. Select Y. Once selected the Folder will be Locked.
+![image](https://user-images.githubusercontent.com/36832858/36659945-96b836b6-1b19-11e8-891e-354343988b5c.png)
+
+To Open the folder you need to run the application and provide with the password which was set in Step 3.
+
+
+### Enjoy !!!
+
+
+
+
+
+
+
