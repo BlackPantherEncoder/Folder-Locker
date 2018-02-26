@@ -109,5 +109,7 @@ Change the password to your requirements. I have changed it to admin
 ## 4. Save as Bat File
 Now save the file as Locker.bat. To do this make sure you can view file extenstions. And while saving select File->Save As-> All Files and save it as Locker.bat
 ![image](https://user-images.githubusercontent.com/36832858/36659034-71619a86-1b16-11e8-8193-8de7c5e0072d.png)
-Now delete the Locker.txt file
+
+Now delete the Locker.txt file. You will be left with Locker.bat
+![image](https://user-images.githubusercontent.com/36832858/36659161-d9156a04-1b16-11e8-8aeb-0125c7f1aefc.png)
 ## 5. Convert Bat File to Exe
